@@ -1,21 +1,20 @@
-# Gator Math Academy v0.2 — Standards catalog foundation
+# Gator Math Academy v0.3 — targeted element practice
 
-Open `index.html` directly, or upload it to the root of your GitHub Pages repository. No build tools required.
+Upload `index.html` to the root of your GitHub Pages repository, replacing the previous version. The standards CSV and JSON remain available for curriculum review.
 
-## What works
-- K–5 grade selection, sample math practice, coins, browser-local progress and CSV export
-- Adventure world choices that launch practice (not yet an animated game)
-- Standards Catalog displays checked individual element entries (and existing top-level entries) alongside clearly marked planning topics
-- `standards-elements.csv` and `standards-elements.json` give a future import format.
+## New in 0.3
+- Click an enabled individual element in the sidebar to practice it directly.
+- Three pilot generators: `2.NR.3.1` (odd/even), `2.NR.3.2` (arrays), `5.NR.3.1` (division expressed as a fraction).
+- Per-topic and per-element practice history saved locally, including the last 10 answers.
+- Practice milestone earned with >=10 attempts and >=85% correct among the latest 10. This is **not evidence of mastery of a Georgia academic standard**.
+- Report and exported CSV show pilot element results and practice milestone.
 
-## Verification warning
-The attached elements are **10 checked entries**, **not the complete K–5 Georgia standards**. The human-friendly summaries are paraphrases, not full official wording. The source is the Georgia CASE standards listing (Georgia K–12 Mathematics Standards), https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8 . Codes and meanings should be audited by a curriculum reviewer before classroom adoption. Many grade-level top-level codes and all remaining individual elements still need adding. A checked element **does not yet have a matching validated question generator**.
+## Limitations
+- Only ten individual elements are in the current checked starter catalog; the full official Georgia K–5 element catalog is not imported.
+- Pilot generators cover limited facets of the listed elements and are not validated assessments.
+- The generated 'adventure' remains a mission picker, not a platformer.
+- Progress is tied to one browser/device, not authenticated or shared with teachers.
+- Do not put student full names or sensitive records in this prototype.
+- Curriculum reviewer should verify all code mappings, wording, questions, and accessibility before classroom use.
 
-## Privacy
-This demo stores practice history in the local browser and has no school-wide accounts or database. Do not use student full names or sensitive records. Not ready for classroom-scale progress tracking or validated standard mastery.
-
-## Next steps
-1. Obtain and validate all K–5 official standards and element IDs from Georgia's complete standards source.
-2. Build a question template and test set for every element with review status.
-3. Store teacher and student progress using authenticated school-approved services.
-4. Build animated Gator Adventure gameplay after the standards and data systems are validated.
+Official standards information: https://gadoe.org/learning/mathematics/
