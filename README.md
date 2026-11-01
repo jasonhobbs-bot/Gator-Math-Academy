@@ -1,11 +1,13 @@
-# Gator Math Academy v0.6
+# Gator Math Academy v0.7 — pilot
 
-Open `index.html` in a browser, or upload it to the root of a GitHub Pages repository. No build tools required.
+Upload `index.html` to the repository root and enable GitHub Pages. The site runs in the browser without a server.
 
-## Version 0.6 changes
-- Adventure worlds extended from 2,350 to 4,200 map units.
-- Moving crab hazards, additional obstacles, parallax scenery, progress bar, and additional shells.
-- Mystery boxes grant temporary Shield, Speed, or Double Jump for about 5 seconds of active gameplay.
-- Keyboard and touch controls, three math checkpoints per world, rewards, and existing practice mode retained.
+## New in v0.7
+- Select an available, pilot Georgia math element for adventure checkpoints.
+- Checkpoints use targeted question templates for that element.
+- Correct and incorrect checkpoint answers contribute to that element’s local progress (including retries).
+- Mixed grade-level checkpoint questions remain available but are not recorded as element performance.
+- Changing checkpoint skill while playing pauses the adventure.
+- CSV report continues to include element progress.
 
-**Limitations:** standards element catalog remains incomplete; adventure checkpoint questions use broad grade-level pilot generators, not necessarily the currently selected standard. Scores are not formal validated mastery assessments. Player progress is saved locally in this browser, not synced to a school database.
+**Limitations:** This is still an instructional prototype. The K–5 standards catalog is incomplete, element question banks have limited templates, and the 85% practice milestone is not validated mastery. Progress is local to one browser and is not suitable for schoolwide student records. Avoid entering real student names.
