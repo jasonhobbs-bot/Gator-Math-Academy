@@ -1,0 +1,102 @@
+[
+  {
+    "grade": "K",
+    "strand": "MDR",
+    "parent_code": "K.MDR.7",
+    "element_code": "K.MDR.7.1",
+    "summary": "Directly compare, describe, and order common objects using length, height, width, or weight; describe differences.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
+    "verification_status": "checked",
+    "question_generator_status": "not_yet_built"
+  },
+  {
+    "grade": "K",
+    "strand": "MDR",
+    "parent_code": "K.MDR.7",
+    "element_code": "K.MDR.7.2",
+    "summary": "Classify and sort up to ten objects by an attribute; count objects in each category and order categories by count.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
+    "verification_status": "checked",
+    "question_generator_status": "not_yet_built"
+  },
+  {
+    "grade": "K",
+    "strand": "MDR",
+    "parent_code": "K.MDR.7",
+    "element_code": "K.MDR.7.3",
+    "summary": "Ask and answer questions using gathered information, observations, and appropriate graphical displays for everyday problems.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
+    "verification_status": "checked",
+    "question_generator_status": "not_yet_built"
+  },
+  {
+    "grade": "2",
+    "strand": "NR",
+    "parent_code": "2.NR.3",
+    "element_code": "2.NR.3.1",
+    "summary": "Determine whether a group of up to 20 objects has an odd or even count; express an even number as two equal addends.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
+    "verification_status": "checked",
+    "question_generator_status": "not_yet_built"
+  },
+  {
+    "grade": "2",
+    "strand": "NR",
+    "parent_code": "2.NR.3",
+    "element_code": "2.NR.3.2",
+    "summary": "Use addition to determine the total in rectangular arrays of up to five rows and columns; write an equal-addends equation.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
+    "verification_status": "checked",
+    "question_generator_status": "not_yet_built"
+  },
+  {
+    "grade": "2",
+    "strand": "GSR",
+    "parent_code": "2.GSR.7",
+    "element_code": "2.GSR.7.1",
+    "summary": "Describe, compare, and sort two- and three-dimensional shapes by their attributes.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
+    "verification_status": "checked",
+    "question_generator_status": "not_yet_built"
+  },
+  {
+    "grade": "2",
+    "strand": "GSR",
+    "parent_code": "2.GSR.7",
+    "element_code": "2.GSR.7.2",
+    "summary": "Identify at least one line of symmetry in everyday objects.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
+    "verification_status": "checked",
+    "question_generator_status": "not_yet_built"
+  },
+  {
+    "grade": "2",
+    "strand": "GSR",
+    "parent_code": "2.GSR.7",
+    "element_code": "2.GSR.7.3",
+    "summary": "Partition circles and rectangles into two, three, or four equal shares and name the fractional parts.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
+    "verification_status": "checked",
+    "question_generator_status": "not_yet_built"
+  },
+  {
+    "grade": "2",
+    "strand": "GSR",
+    "parent_code": "2.GSR.7",
+    "element_code": "2.GSR.7.4",
+    "summary": "Recognize that equal shares of identical wholes may have different shapes.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
+    "verification_status": "checked",
+    "question_generator_status": "not_yet_built"
+  },
+  {
+    "grade": "5",
+    "strand": "NR",
+    "parent_code": "5.NR.3",
+    "element_code": "5.NR.3.1",
+    "summary": "Explain a fraction as division of the numerator by the denominator.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
+    "verification_status": "checked",
+    "question_generator_status": "not_yet_built"
+  }
+]
