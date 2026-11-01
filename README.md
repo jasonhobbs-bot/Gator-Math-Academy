@@ -25,3 +25,6 @@ Official standards information: https://gadoe.org/learning/mathematics/
 - Addition, subtraction, and multiplication topic practice now mixes symbolic problems with short word problems.
 - The element catalog remains incomplete for K–5, and the alignment and prompts require educator review before production use.
 - Student progress remains local to one browser/device. Not intended for storing identifiable student records.
+
+## Version 0.5
+Playable canvas adventure: four world themes, left/right and jump controls (keyboard and touch), platforms, hazards, collectible shells, 3 math checkpoints, lives and win reward. Sample content, not validated standards assessments. All data is browser-only; do not enter student identifiers.
