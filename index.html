@@ -236,4 +236,11 @@ $('jump').addEventListener('pointerdown',e=>{e.preventDefault();jumpGator()});
 window.addEventListener('keydown',e=>{if(document.activeElement?.matches('input,select,textarea'))return;if(['ArrowLeft','ArrowRight',' ','ArrowUp'].includes(e.key)&&document.getElementById('adventure').classList.contains('active')){e.preventDefault();if(e.key===' '||e.key==='ArrowUp'){if(!e.repeat)jumpGator()}else setGameKey(e.key,true)}});
 window.addEventListener('keyup',e=>{if(e.key==='ArrowLeft'||e.key==='ArrowRight')setGameKey(e.key,false)});window.addEventListener('blur',()=>{game.keys={}});
 $('gameStart').onclick=startGame;$('gamePause').onclick=()=>{if(!game.running)return;game.paused=!game.paused;$('gamePause').textContent=game.paused?'▶ Resume':'⏸ Pause'};renderWorldsStatus();drawGame();
-</script></body></html>
+
+</script>
+
+<script src="gator-bridge.js"></script>
+
+</body>
+</html>
+
