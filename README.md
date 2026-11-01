@@ -18,3 +18,10 @@ Upload `index.html` to the root of your GitHub Pages repository, replacing the p
 - Curriculum reviewer should verify all code mappings, wording, questions, and accessibility before classroom use.
 
 Official standards information: https://gadoe.org/learning/mathematics/
+
+
+## Version 0.4
+- All 10 previously checked individual elements now have **pilot** question templates, including visual emoji/bar models, geometry, equal shares, and fraction-as-division.
+- Addition, subtraction, and multiplication topic practice now mixes symbolic problems with short word problems.
+- The element catalog remains incomplete for K–5, and the alignment and prompts require educator review before production use.
+- Student progress remains local to one browser/device. Not intended for storing identifiable student records.
