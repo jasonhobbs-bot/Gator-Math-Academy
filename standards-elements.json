@@ -7,7 +7,7 @@
     "summary": "Directly compare, describe, and order common objects using length, height, width, or weight; describe differences.",
     "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
     "verification_status": "checked",
-    "question_generator_status": "not_yet_built"
+    "question_generator_status": "pilot_generator_available"
   },
   {
     "grade": "K",
@@ -17,7 +17,7 @@
     "summary": "Classify and sort up to ten objects by an attribute; count objects in each category and order categories by count.",
     "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
     "verification_status": "checked",
-    "question_generator_status": "not_yet_built"
+    "question_generator_status": "pilot_generator_available"
   },
   {
     "grade": "K",
@@ -27,27 +27,87 @@
     "summary": "Ask and answer questions using gathered information, observations, and appropriate graphical displays for everyday problems.",
     "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
     "verification_status": "checked",
-    "question_generator_status": "not_yet_built"
+    "question_generator_status": "pilot_generator_available"
   },
   {
-    "grade": "2",
+    "grade": "K",
     "strand": "NR",
-    "parent_code": "2.NR.3",
-    "element_code": "2.NR.3.1",
-    "summary": "Determine whether a group of up to 20 objects has an odd or even count; express an even number as two equal addends.",
-    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
+    "parent_code": "K.NR.4",
+    "element_code": "K.NR.4.1",
+    "summary": "Identify numerals 0–20 and represent sets with those numerals.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/16b0717b-8216-49c5-8cf6-bc9866c747ee",
     "verification_status": "checked",
-    "question_generator_status": "not_yet_built"
+    "question_generator_status": "pilot_generator_available"
   },
   {
-    "grade": "2",
+    "grade": "K",
     "strand": "NR",
-    "parent_code": "2.NR.3",
-    "element_code": "2.NR.3.2",
-    "summary": "Use addition to determine the total in rectangular arrays of up to five rows and columns; write an equal-addends equation.",
-    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
+    "parent_code": "K.NR.4",
+    "element_code": "K.NR.4.2",
+    "summary": "Compare two sets up to ten using greater than, less than, or the same as.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/16b0717b-8216-49c5-8cf6-bc9866c747ee",
     "verification_status": "checked",
-    "question_generator_status": "not_yet_built"
+    "question_generator_status": "pilot_generator_available"
+  },
+  {
+    "grade": "K",
+    "strand": "PAR",
+    "parent_code": "K.PAR.6",
+    "element_code": "K.PAR.6.1",
+    "summary": "Create, extend, and describe repeating patterns of numbers or shapes.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/abf4eb8a-0378-4c19-80ee-fcb3a09dd17a",
+    "verification_status": "checked",
+    "question_generator_status": "pilot_generator_available"
+  },
+  {
+    "grade": "1",
+    "strand": "NR",
+    "parent_code": "1.NR.2",
+    "element_code": "1.NR.2.1",
+    "summary": "Use different strategies to add and subtract within 20.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/91ee6e1e-1290-4961-b8a1-b3a37782ecfe",
+    "verification_status": "checked",
+    "question_generator_status": "pilot_generator_available"
+  },
+  {
+    "grade": "1",
+    "strand": "NR",
+    "parent_code": "1.NR.2",
+    "element_code": "1.NR.2.4",
+    "summary": "Add and subtract fluently within 10 using varied strategies.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/91ee6e1e-1290-4961-b8a1-b3a37782ecfe",
+    "verification_status": "checked",
+    "question_generator_status": "pilot_generator_available"
+  },
+  {
+    "grade": "1",
+    "strand": "NR",
+    "parent_code": "1.NR.2",
+    "element_code": "1.NR.2.5",
+    "summary": "Decide whether addition and subtraction equations are true or false using the equal sign.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/91ee6e1e-1290-4961-b8a1-b3a37782ecfe",
+    "verification_status": "checked",
+    "question_generator_status": "pilot_generator_available"
+  },
+  {
+    "grade": "1",
+    "strand": "NR",
+    "parent_code": "1.NR.2",
+    "element_code": "1.NR.2.6",
+    "summary": "Find the missing whole number in an addition or subtraction equation.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/91ee6e1e-1290-4961-b8a1-b3a37782ecfe",
+    "verification_status": "checked",
+    "question_generator_status": "pilot_generator_available"
+  },
+  {
+    "grade": "1",
+    "strand": "PAR",
+    "parent_code": "1.PAR.3",
+    "element_code": "1.PAR.3.2",
+    "summary": "Create, describe, and extend growing and shrinking patterns with steps of 1, 2, 5, or 10.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/0c665bfc-1816-49f5-95df-a9e2230f0385",
+    "verification_status": "checked",
+    "question_generator_status": "pilot_generator_available"
   },
   {
     "grade": "2",
@@ -57,7 +117,7 @@
     "summary": "Describe, compare, and sort two- and three-dimensional shapes by their attributes.",
     "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
     "verification_status": "checked",
-    "question_generator_status": "not_yet_built"
+    "question_generator_status": "pilot_generator_available"
   },
   {
     "grade": "2",
@@ -67,7 +127,7 @@
     "summary": "Identify at least one line of symmetry in everyday objects.",
     "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
     "verification_status": "checked",
-    "question_generator_status": "not_yet_built"
+    "question_generator_status": "pilot_generator_available"
   },
   {
     "grade": "2",
@@ -77,7 +137,7 @@
     "summary": "Partition circles and rectangles into two, three, or four equal shares and name the fractional parts.",
     "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
     "verification_status": "checked",
-    "question_generator_status": "not_yet_built"
+    "question_generator_status": "pilot_generator_available"
   },
   {
     "grade": "2",
@@ -87,7 +147,107 @@
     "summary": "Recognize that equal shares of identical wholes may have different shapes.",
     "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
     "verification_status": "checked",
-    "question_generator_status": "not_yet_built"
+    "question_generator_status": "pilot_generator_available"
+  },
+  {
+    "grade": "2",
+    "strand": "NR",
+    "parent_code": "2.NR.3",
+    "element_code": "2.NR.3.1",
+    "summary": "Determine whether a group of up to 20 objects has an odd or even count; express an even number as two equal addends.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
+    "verification_status": "checked",
+    "question_generator_status": "pilot_generator_available"
+  },
+  {
+    "grade": "2",
+    "strand": "NR",
+    "parent_code": "2.NR.3",
+    "element_code": "2.NR.3.2",
+    "summary": "Use addition to determine the total in rectangular arrays of up to five rows and columns; write an equal-addends equation.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
+    "verification_status": "checked",
+    "question_generator_status": "pilot_generator_available"
+  },
+  {
+    "grade": "3",
+    "strand": "NR",
+    "parent_code": "3.NR.1",
+    "element_code": "3.NR.1.3",
+    "summary": "Round numbers up to 1,000 to the nearest ten or hundred.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/75222b39-2bc1-4e8a-b934-7ece6af3f9f1",
+    "verification_status": "checked",
+    "question_generator_status": "pilot_generator_available"
+  },
+  {
+    "grade": "3",
+    "strand": "PAR",
+    "parent_code": "3.PAR.3",
+    "element_code": "3.PAR.3.2",
+    "summary": "Represent single-digit multiplication and division facts and connect the two operations.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/96bc0df0-9e8f-4937-8ccf-5721de3384f9",
+    "verification_status": "checked",
+    "question_generator_status": "pilot_generator_available"
+  },
+  {
+    "grade": "3",
+    "strand": "PAR",
+    "parent_code": "3.PAR.3",
+    "element_code": "3.PAR.3.5",
+    "summary": "Use place-value reasoning to multiply one-digit numbers by multiples of ten from 10 to 90.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/96bc0df0-9e8f-4937-8ccf-5721de3384f9",
+    "verification_status": "checked",
+    "question_generator_status": "pilot_generator_available"
+  },
+  {
+    "grade": "3",
+    "strand": "PAR",
+    "parent_code": "3.PAR.3",
+    "element_code": "3.PAR.3.6",
+    "summary": "Solve practical multiplication and division problems within 100 with models and part-whole strategies.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/96bc0df0-9e8f-4937-8ccf-5721de3384f9",
+    "verification_status": "checked",
+    "question_generator_status": "pilot_generator_available"
+  },
+  {
+    "grade": "4",
+    "strand": "NR",
+    "parent_code": "4.NR.2",
+    "element_code": "4.NR.2.1",
+    "summary": "Add and subtract multi-digit numbers using place value and operation strategies.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/ac622561-0579-46ce-ba33-d35233a98305",
+    "verification_status": "checked",
+    "question_generator_status": "pilot_generator_available"
+  },
+  {
+    "grade": "4",
+    "strand": "NR",
+    "parent_code": "4.NR.2",
+    "element_code": "4.NR.2.2",
+    "summary": "Model and solve multiplicative comparison problems.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/ac622561-0579-46ce-ba33-d35233a98305",
+    "verification_status": "checked",
+    "question_generator_status": "pilot_generator_available"
+  },
+  {
+    "grade": "4",
+    "strand": "NR",
+    "parent_code": "4.NR.2",
+    "element_code": "4.NR.2.3",
+    "summary": "Multiply up to four-digit numbers by one-digit numbers or two-digit by two-digit numbers.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/ac622561-0579-46ce-ba33-d35233a98305",
+    "verification_status": "checked",
+    "question_generator_status": "pilot_generator_available"
+  },
+  {
+    "grade": "4",
+    "strand": "NR",
+    "parent_code": "4.NR.2",
+    "element_code": "4.NR.2.4",
+    "summary": "Divide up to four-digit dividends by one-digit divisors, including quotient and remainder contexts.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/ac622561-0579-46ce-ba33-d35233a98305",
+    "verification_status": "checked",
+    "question_generator_status": "pilot_generator_available"
   },
   {
     "grade": "5",
@@ -97,6 +257,56 @@
     "summary": "Explain a fraction as division of the numerator by the denominator.",
     "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/46bd1149-f034-4eca-a8f9-35174a68c0f8",
     "verification_status": "checked",
-    "question_generator_status": "not_yet_built"
+    "question_generator_status": "pilot_generator_available"
+  },
+  {
+    "grade": "5",
+    "strand": "NR",
+    "parent_code": "5.NR.3",
+    "element_code": "5.NR.3.2",
+    "summary": "Compare and order fractions with different numerators or denominators.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/a090d07e-3056-4b1e-b2a5-769931fc959f",
+    "verification_status": "checked",
+    "question_generator_status": "pilot_generator_available"
+  },
+  {
+    "grade": "5",
+    "strand": "NR",
+    "parent_code": "5.NR.3",
+    "element_code": "5.NR.3.3",
+    "summary": "Model addition and subtraction of fractions with unlike denominators.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/a090d07e-3056-4b1e-b2a5-769931fc959f",
+    "verification_status": "checked",
+    "question_generator_status": "pilot_generator_available"
+  },
+  {
+    "grade": "5",
+    "strand": "NR",
+    "parent_code": "5.NR.3",
+    "element_code": "5.NR.3.4",
+    "summary": "Model and solve multiplication of a fraction by a whole number.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/a090d07e-3056-4b1e-b2a5-769931fc959f",
+    "verification_status": "checked",
+    "question_generator_status": "pilot_generator_available"
+  },
+  {
+    "grade": "5",
+    "strand": "NR",
+    "parent_code": "5.NR.3",
+    "element_code": "5.NR.3.5",
+    "summary": "Explain when multiplying by a fraction makes a product larger, smaller, or equal to the whole number.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/a090d07e-3056-4b1e-b2a5-769931fc959f",
+    "verification_status": "checked",
+    "question_generator_status": "pilot_generator_available"
+  },
+  {
+    "grade": "5",
+    "strand": "NR",
+    "parent_code": "5.NR.3",
+    "element_code": "5.NR.3.6",
+    "summary": "Model unit-fraction division by whole numbers and whole-number division by unit fractions.",
+    "source_url": "https://case.georgiastandards.org/e9dd7229-3558-4df2-85c6-57b8938f6180/a090d07e-3056-4b1e-b2a5-769931fc959f",
+    "verification_status": "checked",
+    "question_generator_status": "pilot_generator_available"
   }
 ]
